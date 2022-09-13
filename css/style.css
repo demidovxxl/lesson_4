@@ -1,0 +1,89 @@
+.header__text>mark {
+	font-family: "larsseit";
+	font-weight: 400;
+	color: green;
+}
+.page__title{
+	font-family: "Lato";
+	font-weight: 900;
+}
+.main-content__link.main-content__link_test{
+	font-family: "Roboto";
+	font-weight: 900;
+	color: red;
+}
+.main-content__list-name {
+	font-family: "Roboto";
+	font-weight: 700;
+}
+li>a {
+	font-family: "Roboto";
+	font-weight: 700;
+	color: blue;
+}
+ol>li>a {
+	font-family: "Roboto";
+	font-weight: 500;
+	color: brown;
+}
+.main-content__text {
+	font-family: "Roboto";
+	font-weight: 400;
+}
+h2.main-content__title {
+	font-family: "Roboto";
+	font-weight: 700;
+	color: blue;
+}
+h3,h4.main-content__title {
+	font-family: "Lato";
+	font-weight: 700;
+	color: brown;
+}
+
+/* ---------------------- Roboto TEST---------------------------- */
+#roboto-regular{
+	font-family: "roboto";
+	font-weight: 400;
+}
+#roboto-medium{
+	font-family: "roboto";
+	font-weight: 500;
+}
+#roboto-bold{
+	font-family: "roboto";
+	font-weight: 700;
+}
+#roboto-black{
+	font-family: "roboto";
+	font-weight: 900;
+}
+
+/* ---------------------- Lato TEST------------------------------ */
+#lato-regular{
+	font-family: "lato";
+	font-weight: 400;
+}
+#lato-bold{
+	font-family: "lato";
+	font-weight: 700;
+}
+#lato-black{
+	font-family: "lato";
+	font-weight: 900;
+}
+
+/* ---------------------- Larsseit TEST-------------------------- */
+
+#larsseit-regular{
+	font-family: "larsseit";
+	font-weight: 400;
+}
+#larsseit-medium{
+	font-family: "larsseit";
+	font-weight: 500;
+}
+#larsseit-bold{
+	font-family: "larsseit";
+	font-weight: 700;
+}
